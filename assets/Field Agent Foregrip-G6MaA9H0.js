@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Tactical%20Foregrip%20A-DpKcUkuu.png`;export{e as default};

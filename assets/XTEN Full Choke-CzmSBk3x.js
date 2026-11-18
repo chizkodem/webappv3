@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/XTEN%20Full%20Choke-Cicah9xS.png`;export{e as default};

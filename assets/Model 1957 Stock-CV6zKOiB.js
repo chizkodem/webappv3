@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Model%201957%20Stock-CjNiTQ3B.png`;export{e as default};

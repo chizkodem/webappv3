@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Monolithic%20Silencer%20Barrel-Bq-RWu6T.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/FMJ-DxBc_648.png`;export{e as default};

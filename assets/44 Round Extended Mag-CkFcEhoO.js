@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/44%20Round%20Extended%20Mag-B_1BRkZz.png`;export{e as default};

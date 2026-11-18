@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Heavy%20Handle-vOrarnyz.png`;export{e as default};

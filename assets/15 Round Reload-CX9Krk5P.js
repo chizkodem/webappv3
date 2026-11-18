@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/15%20Round%20Reload-DMdThPqA.png`;export{e as default};

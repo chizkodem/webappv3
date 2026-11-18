@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Slimline%20Pro-DyQ5Zc94.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/MIP%20Sport%20Stock-BUXn7FMh.png`;export{e as default};

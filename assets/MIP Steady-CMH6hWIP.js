@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/MIP%20Steady-BxzeV5Bb.png`;export{e as default};

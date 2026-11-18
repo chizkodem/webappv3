@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Quicksilver%20Silencer-DnlS2DOZ.png`;export{e as default};

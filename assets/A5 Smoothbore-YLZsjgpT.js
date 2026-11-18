@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/A5%20Smoothbore-aBUIthEw.png`;export{e as default};

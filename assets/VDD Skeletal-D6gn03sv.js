@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/VDD%20Skeletal-CSLQgH0-.png`;export{e as default};

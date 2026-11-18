@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Demo%20Quicksilver%20Stock-D-PhWzlR.png`;export{e as default};

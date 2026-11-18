@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/OWC%20Marksman-C4mHeJgF.png`;export{e as default};

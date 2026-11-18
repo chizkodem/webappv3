@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Marauder%20Suppressor-CNcsAI6Z.png`;export{e as default};

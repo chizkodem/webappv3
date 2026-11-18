@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Forge%20Tac%20Marauder-468z2bqu.png`;export{e as default};

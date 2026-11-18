@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Hair%20Trigger-bYUlhlrU.png`;export{e as default};

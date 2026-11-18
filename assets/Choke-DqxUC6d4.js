@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Choke-BdOp9xTu.png`;export{e as default};

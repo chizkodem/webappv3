@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/VDV%2035%20Rnd%20Fast%20Mag-XHs1peoD.png`;export{e as default};

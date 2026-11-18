@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Folded%20Stock-5IAtOcLX.png`;export{e as default};

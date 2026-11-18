@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Cooper%2021%20Shrouded-scOVt1Pf.png`;export{e as default};

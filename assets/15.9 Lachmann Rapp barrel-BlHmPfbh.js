@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/15.9%20Lachmann%20Rapp%20barrel-DfRWAirz.png`;export{e as default};

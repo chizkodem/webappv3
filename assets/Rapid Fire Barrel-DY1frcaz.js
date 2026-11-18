@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Rapid%20Fire%20Barrel-BwWgTm2x.png`;export{e as default};
