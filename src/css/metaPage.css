@@ -1,0 +1,30 @@
+.meta-container {
+  scrollbar-width: none;
+}
+
+.meta-container::-webkit-scrollbar {
+  display: none;
+}
+
+.custom-scrollbar {
+  position: absolute;
+  right: -15px;
+  top: 0;
+  bottom: 10px;
+  width: 5px;
+  background: #ffffff20;
+  border-radius: 10px;
+  pointer-events: none;
+  z-index: 50;
+}
+
+.custom-scrollbar-thumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background: #fcb02d;
+  border-radius: 10px;
+  will-change: transform;
+}

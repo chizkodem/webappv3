@@ -1,0 +1,327 @@
+.sidebar-container::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("https://ik.imagekit.io/chizwebappv3/chizkodem%20background%20picture%20copy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: brightness(0.65) contrast(1.15) saturate(1.2);
+  border-radius: 24px;
+  z-index: -1;
+}
+
+/* .all-page-container::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("https://ik.imagekit.io/chizwebappv3/chizkodemlogo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1;
+} */
+
+/* .page-container::before {
+  content: "";
+  position: absolute;
+  inset: -50%;
+url(../components/Sidebar.jsx) url(sidebar.css)  width: 200%;
+  height: 200%;
+  background-image: url("https://ik.imagekit.io/chizwebappv3/chizkodemlogo.png");
+  background-size: 150px auto;
+  background-repeat: repeat;
+  background-position: center;
+  transform: rotate(var(--bg-rotation));
+  opacity: 5%;
+  z-index: -1;
+  pointer-events: none;
+} */
+
+.logo-pattern {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  opacity: 10%;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.logo-pattern img {
+  object-fit: contain;
+  transform-origin: center;
+}
+
+/* From Uiverse.io by Smit-Prajapati */
+.sidebar-radio-container {
+  --main-color: #fcb02d;
+  --main-color-opacity: #fcb02d1c;
+
+  /* change this according inputs count */
+  --total-radio: 10;
+
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-left: 0.5rem;
+}
+.sidebar-radio-container input {
+  cursor: pointer;
+  appearance: none;
+}
+.sidebar-radio-container .glider-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0) 0%,
+    #fdb12d41 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  width: 10px;
+}
+.sidebar-radio-container .glider-container .glider {
+  position: relative;
+  height: calc(100% / var(--total-radio));
+  width: 100%;
+  /* background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0) 0%,
+    var(--main-color) 50%,
+    rgba(0, 0, 0, 0) 100%
+  ); */
+  background: var(--main-color);
+  transition: transform 0.5s cubic-bezier(0.37, 1.95, 0.66, 0.56);
+  border-radius: 20px 0 0 20px;
+}
+.sidebar-radio-container .glider-container .glider::before {
+  content: "";
+  position: absolute;
+  height: 60%;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--main-color);
+  filter: blur(10px);
+}
+.sidebar-radio-container .glider-container .glider::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 200px;
+  background: linear-gradient(
+    90deg,
+    var(--main-color-opacity) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+.sidebar-radio-container label {
+  cursor: pointer;
+  padding: 1rem;
+  position: relative;
+  color: rgb(236, 236, 236);
+  transition: all 0.3s ease-in-out;
+}
+
+.sidebar-radio-container input:checked + label {
+  color: var(--main-color);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(1):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(0);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(2):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(100%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(3):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(200%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(4):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(300%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(5):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(400%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(6):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(500%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(7):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(600%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(8):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(700%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(9):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(800%);
+}
+
+.sidebar-radio-container
+  input:nth-of-type(10):checked
+  ~ .glider-container
+  .glider {
+  transform: translateY(900%);
+}
+
+/* From Uiverse.io by reglobby */
+.user-profile,
+.add-gun-button {
+  width: 131px;
+  height: 51px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  background: linear-gradient(to bottom right, #fcb12d 0%, #fcb02d00 30%);
+  background-color: #fcb02d00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-profile:hover,
+.user-profile:focus,
+.add-gun-button:hover {
+  background-color: #fcb12d;
+  box-shadow: 0 0 10px #fcb12d;
+  outline: none;
+}
+
+.user-profile-inner,
+.add-gun-button-inner {
+  width: 127px;
+  height: 47px;
+  border-radius: 13px;
+  background-color: #090a0e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.user-profile-inner svg {
+  width: 27px;
+  height: 27px;
+  fill: #fff;
+}
+
+.icon-gray {
+  filter: brightness(0) saturate(100%) invert(42%) sepia(10%) saturate(0%)
+    hue-rotate(185deg) brightness(190%) contrast(85%);
+}
+
+.icon-gold {
+  filter: brightness(0) saturate(100%) invert(72%) sepia(78%) saturate(700%)
+    hue-rotate(347deg) brightness(102%) contrast(101%);
+}
+
+.icon-black {
+  filter: brightness(0) saturate(100%) invert(12%) sepia(78%) saturate(700%)
+    brightness(0%);
+}
+
+/* From Uiverse.io by vinodjangid07 */
+.logout-Btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition-duration: 0.3s;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.199);
+  background-color: #fab02d;
+}
+
+/* plus sign */
+.logout-sign {
+  width: 100%;
+  transition-duration: 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logout-sign svg {
+  width: 17px;
+}
+
+.logout-sign svg path {
+  fill: rgb(136, 0, 0);
+}
+/* text */
+.logout-text {
+  position: absolute;
+  right: 0%;
+  width: 0%;
+  opacity: 0;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 600;
+  transition-duration: 0.3s;
+}
+/* hover effect on button width */
+.logout-Btn:hover {
+  width: 125px;
+  border-radius: 40px;
+  transition-duration: 0.3s;
+}
+
+.logout-Btn:hover .sign {
+  width: 30%;
+  transition-duration: 0.3s;
+  padding-left: 20px;
+}
+/* hover effect button's text */
+.logout-Btn:hover .text {
+  opacity: 1;
+  width: 70%;
+  transition-duration: 0.3s;
+  padding-right: 10px;
+}
+/* button click effect*/
+.logout-Btn:active {
+  transform: translate(2px, 2px);
+}

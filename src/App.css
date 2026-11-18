@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Caacupe+One&family=Rajdhani:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
+
+body {
+  background-color: #000;
+  color: white;
+  font-family: Rajdhani, sans-serif;
+}
+
+.all-page-container {
+  scrollbar-width: none;
+}
+
+.all-page-container::-webkit-scrollbar {
+  display: none;
+}
+
+.gunspage-container {
+  scrollbar-width: none;
+}
+
+.gunspage-container::-webkit-scrollbar {
+  display: none;
+}
+
+.gunlist-container {
+  scrollbar-width: none;
+}
+
+.gunlist-container::-webkit-scrollbar {
+  display: none;
+  background-color: white;
+}
+
+.filter-container {
+  scrollbar-width: none;
+}
+
+.filter-container::-webkit-scrollbar {
+  display: none;
+  background-color: white;
+}

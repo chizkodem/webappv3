@@ -1,0 +1,73 @@
+.first-place:not(.hero) {
+  filter: brightness(0) saturate(100%) invert(75%) sepia(83%) saturate(900%)
+    hue-rotate(342deg) brightness(102%) contrast(98%);
+}
+
+.second-place {
+  filter: brightness(0) saturate(100%) invert(83%) sepia(10%) saturate(300%)
+    hue-rotate(185deg) brightness(102%) contrast(90%);
+}
+
+.third-place {
+  filter: brightness(0) saturate(100%) invert(57%) sepia(24%) saturate(700%)
+    hue-rotate(333deg) brightness(91%) contrast(88%);
+}
+
+.first-place-border {
+  border: 2px solid #fcb12d;
+  box-shadow: inset 0 0 10px 1px #fcb02d4b;
+}
+
+.first-place-border.glow {
+  box-shadow: inset 0 40px 100px 0px #fcb02d3a;
+}
+
+.second-place-border {
+  border: 2px solid #c2c9db;
+  box-shadow: inset 0 0 10px 1px #c2c9db50;
+}
+
+.second-place-border.glow {
+  box-shadow: inset 0 40px 100px 0px #c2c9db2a;
+}
+
+.third-place-border {
+  border: 2px solid #bf8164;
+  box-shadow: inset 0 0 10px 1px #bf81643f;
+}
+
+.third-place-border.glow {
+  box-shadow: inset 0 40px 100px 0px #bf816442;
+}
+
+.metapage {
+  filter: brightness(0) saturate(100%) invert(60%) sepia(8%) saturate(300%)
+    hue-rotate(180deg) brightness(90%) contrast(85%);
+}
+
+.metapage-border.glow {
+  box-shadow: inset 0 40px 100px 0px #fdfdfd1a;
+}
+
+.gun-type {
+  background-color: #fcb12d;
+}
+
+.place-background {
+  position: relative;
+  overflow: hidden;
+}
+
+.place-background::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("https://ik.imagekit.io/chizwebappv3/chizkodemlogo.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  opacity: 5%;
+  transform: rotate(180deg) scale(1.3);
+  z-index: -1;
+}

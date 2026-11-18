@@ -1,0 +1,236 @@
+.gun-hero {
+  background-image:
+    linear-gradient(
+      45deg,
+      #000000 0%,
+      #00000081 30%,
+      transparent 45%,
+      transparent
+    ),
+    url("https://ik.imagekit.io/chizwebappv3/build%20hero%20background.jpg");
+
+  background-size: cover;
+  background-position: center;
+}
+
+.gun-hero-shadow {
+  filter: brightness(0) saturate(100%) blur(10px);
+  opacity: 0.6;
+}
+
+.gun-part-shadow {
+  filter: brightness(0) saturate(100%) blur(15px);
+  opacity: 0.8;
+}
+
+.first-place.hero {
+  background-color: #fab02d;
+  padding: 0px 13px;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 0px 0px 10px #fab02d;
+}
+
+.gunpart {
+  background: linear-gradient(to bottom, #3b3b3b, #17181a);
+}
+
+/* From Uiverse.io by 00Kubi */
+.build-radio-inputs {
+  position: relative;
+  display: flex;
+  border-radius: 0.5rem;
+  /* background-color: #eee; */
+  border: 1px solid #faaf2d4d;
+  box-sizing: border-box;
+  box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.06);
+  padding: 0.25rem;
+  width: fit-content;
+  font-size: 14px;
+}
+
+.build-radio-inputs .build-radio {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.build-radio-inputs .build-radio input {
+  display: none;
+}
+
+.build-radio-inputs .build-radio .build-name {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: #fab02d;
+  font-weight: bold;
+  transition: all 0.15s ease-in-out;
+  font-size: 1rem;
+}
+
+.build-radio-inputs .build-radio input:checked + .build-name {
+  background-color: #fab02d;
+  color: black;
+  font-weight: bold;
+}
+
+/* Hover effect */
+.build-radio-inputs .build-radio:hover .build-name {
+  background-color: #faaf2d3b;
+}
+
+/* Animation */
+.build-radio-inputs .build-radio input:checked + .build-name {
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  animation: select 0.3s ease;
+}
+
+@keyframes select {
+  0% {
+    transform: scale(0.95);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Particles */
+.build-radio-inputs .build-radio input:checked + .build-name::before,
+.build-radio-inputs .build-radio input:checked + .build-name::after {
+  content: "";
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #fab02d;
+  opacity: 0;
+  animation: particles 0.5s ease forwards;
+}
+
+.build-radio-inputs .build-radio input:checked + .build-name::before {
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.build-radio-inputs .build-radio input:checked + .build-name::after {
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@keyframes particles {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(0);
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(var(--direction));
+  }
+}
+
+.build-radio-inputs .build-radio input:checked + .build-name::before {
+  --direction: -10px;
+}
+
+.build-radio-inputs .build-radio input:checked + .build-name::after {
+  --direction: 10px;
+}
+
+/* Heart butun */
+.heart-container {
+  --heart-color: rgb(255, 91, 137);
+  width: 35px;
+  height: 35px;
+  transition: 0.3s;
+}
+
+.heart-container .checkbox {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 20;
+  cursor: pointer;
+}
+
+.heart-container .svg-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heart-container .svg-outline,
+.heart-container .svg-filled {
+  fill: var(--heart-color);
+  position: absolute;
+}
+
+.heart-container .svg-filled {
+  animation: keyframes-svg-filled 1s;
+  display: none;
+}
+
+.heart-container .svg-celebrate {
+  position: absolute;
+  animation: keyframes-svg-celebrate 0.5s;
+  animation-fill-mode: forwards;
+  display: none;
+  stroke: var(--heart-color);
+  fill: var(--heart-color);
+  stroke-width: 2px;
+}
+
+.heart-container .checkbox:checked ~ .svg-container .svg-filled {
+  display: block;
+}
+
+.heart-container .checkbox:checked ~ .svg-container .svg-celebrate {
+  display: block;
+}
+
+@keyframes keyframes-svg-filled {
+  0% {
+    transform: scale(0);
+  }
+
+  25% {
+    transform: scale(1.2);
+  }
+
+  50% {
+    transform: scale(1);
+    filter: brightness(1.5);
+  }
+}
+
+@keyframes keyframes-svg-celebrate {
+  0% {
+    transform: scale(0);
+  }
+
+  50% {
+    opacity: 1;
+    filter: brightness(1.5);
+  }
+
+  100% {
+    transform: scale(1.4);
+    opacity: 0;
+    display: none;
+  }
+}
