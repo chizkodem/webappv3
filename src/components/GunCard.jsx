@@ -88,7 +88,7 @@ const GunCard = ({
         }`}
       >
         <LazyImage
-          src={gun.iconURL}
+          src={`${gun.iconURL}?tr=w-600,q-5,f-auto`}
           alt=""
           className={`absolute top-[55%] left-[47%] ${showGuns === "metaPage" ? "h-[130%]" : showGuns === "gunsPage" ? "w-full" : "w-[140%]"} max-w-none translate-y-[-53%] translate-x-[-50%] aspect-video object-cover gun-part-shadow ${
             showGuns === "meta" || showGuns === "chizPage"
@@ -99,7 +99,7 @@ const GunCard = ({
           }`}
         />
         <LazyImage
-          src={gun.iconURL}
+          src={`${gun.iconURL}?tr=w-600,q-30,f-auto`}
           alt=""
           className={`absolute top-1/2 left-1/2 ${showGuns === "metaPage" ? "h-[130%]" : showGuns === "gunsPage" ? "w-full" : "w-[140%]"} max-w-none translate-y-[-53%] translate-x-[-50%] aspect-video object-cover ${
             showGuns === "meta" || showGuns === "chizPage"

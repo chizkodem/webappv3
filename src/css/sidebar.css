@@ -38,6 +38,7 @@ url(../components/Sidebar.jsx) url(sidebar.css)  width: 200%;
   pointer-events: none;
 } */
 
+/* disabled */
 .logo-pattern {
   position: absolute;
   inset: 0;
@@ -45,6 +46,7 @@ url(../components/Sidebar.jsx) url(sidebar.css)  width: 200%;
   opacity: 10%;
   pointer-events: none;
   z-index: -1;
+  display: none;
 }
 
 .logo-pattern img {
