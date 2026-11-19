@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/YKM%20Light%20Barrel%20Short-bwEXLnf6.png`;export{e as default};

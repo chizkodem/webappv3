@@ -1,1 +1,0 @@
-var e=`/assets/Tube%20Extension%20_2%20Ammo-CseNm2CC.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/M1929%20Silencer-dvV9zGZj.png`;export{e as default};

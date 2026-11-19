@@ -1,1 +1,0 @@
-var e=`/assets/Chopper%20Special%20Forces-BUfvhHH9.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Steel%20Rain%20Quickdraw-CsOSh0jk.png`;export{e as default};

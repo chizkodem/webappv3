@@ -1,1 +1,0 @@
-var e=`/assets/Nazaryan%20336mm%20mag-CFS7rk6z.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/Silencer-CckCu8eq.png`;export{e as default};

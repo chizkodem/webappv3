@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Assassin%20Short-CXdrniZT.png`;export{e as default};

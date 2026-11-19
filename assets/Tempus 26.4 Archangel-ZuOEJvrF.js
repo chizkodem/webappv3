@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Tempus%2026.4%20Archangel-Dq4LDxU2.png`;export{e as default};

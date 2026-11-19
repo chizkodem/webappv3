@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/MX%20Silencer-DNGVxHVo.png`;export{e as default};

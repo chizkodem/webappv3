@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Thermite%20Ammo-Bg954Fpg.png`;export{e as default};

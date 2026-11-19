@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/30%20Round%20OTM%20Mag-D5ja91TK.png`;export{e as default};

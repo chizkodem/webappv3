@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/OWC%20Laser%20Tactical-BQ04ak8s.png`;export{e as default};

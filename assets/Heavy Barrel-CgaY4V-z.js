@@ -1,1 +1,0 @@
-var e=`/assets/Heavy%20Barrel-BkGH92Fa.png`;export{e as default};

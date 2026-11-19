@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/15%20Round%20FMJ-Bh9yozdX.png`;export{e as default};

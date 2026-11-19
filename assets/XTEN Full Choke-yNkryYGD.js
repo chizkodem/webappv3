@@ -1,1 +1,0 @@
-var e=`/assets/XTEN%20Full%20Choke-Cicah9xS.png`;export{e as default};

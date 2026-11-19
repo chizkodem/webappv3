@@ -1,1 +1,0 @@
-var e=`/assets/RTC%20Laser%201mw-BMudDMw0.png`;export{e as default};

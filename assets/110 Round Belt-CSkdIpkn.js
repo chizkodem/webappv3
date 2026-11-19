@@ -1,1 +1,0 @@
-var e=`/assets/110%20Round%20Belt-BFYW-cMc.png`;export{e as default};

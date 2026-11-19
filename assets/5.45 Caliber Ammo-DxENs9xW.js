@@ -1,1 +1,0 @@
-var e=`/assets/5.45%20Caliber%20Ammo-j2oLSbJ9.png`;export{e as default};

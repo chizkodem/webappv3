@@ -1,1 +1,0 @@
-var e=`/assets/RTC%20Recon%20Tac%20Long-Batouz0C.png`;export{e as default};

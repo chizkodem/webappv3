@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Large%20Caliber%20Ammo-B9s6bnm3.png`;export{e as default};

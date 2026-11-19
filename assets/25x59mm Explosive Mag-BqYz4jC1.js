@@ -1,1 +1,0 @@
-var e=`/assets/25x59mm%20Explosive%20Mag-DZB3OyIe.png`;export{e as default};

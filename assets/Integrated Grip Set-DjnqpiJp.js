@@ -1,1 +1,0 @@
-var e=`/assets/Integrated%20Grip%20Set-CXCbc83Y.png`;export{e as default};

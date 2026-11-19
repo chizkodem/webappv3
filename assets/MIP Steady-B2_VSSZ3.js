@@ -1,1 +1,0 @@
-var e=`/assets/MIP%20Steady-BxzeV5Bb.png`;export{e as default};

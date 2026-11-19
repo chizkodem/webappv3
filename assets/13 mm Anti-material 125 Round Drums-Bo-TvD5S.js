@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/13%20mm%20Anti-material%20125%20Round%20Drums-DqfHmgdf.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/SSB%20105mm-B1ZaptUn.png`;export{e as default};

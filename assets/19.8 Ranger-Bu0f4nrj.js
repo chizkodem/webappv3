@@ -1,1 +1,0 @@
-var e=`/assets/19.8%20Ranger-AK_gea9l.png`;export{e as default};

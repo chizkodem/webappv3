@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Extended%20Mag%20C-qm2lI9Ck.png`;export{e as default};

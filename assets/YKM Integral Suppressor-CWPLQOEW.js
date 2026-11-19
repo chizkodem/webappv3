@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/YKM%20Integral%20Suppressor-DGEBGk6D.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/Stippled%20Grip-BbuI6e0d.png`;export{e as default};

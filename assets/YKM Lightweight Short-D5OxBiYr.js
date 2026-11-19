@@ -1,1 +1,0 @@
-var e=`/assets/YKM%20Lightweight%20Short-DmcOGPzV.png`;export{e as default};

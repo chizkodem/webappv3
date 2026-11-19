@@ -1,1 +1,0 @@
-var e=`/assets/SAS%20Combat%20Stock-BAqu6nvu.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Leroy%20438MM%20Rapid-CDh-h9O8.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/ISO%20Collapsible-BkB31KXg.png`;export{e as default};

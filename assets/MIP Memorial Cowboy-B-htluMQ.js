@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/MIP%20Memorial%20Cowboy-CklLjumv.png`;export{e as default};

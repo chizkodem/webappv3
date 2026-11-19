@@ -1,1 +1,0 @@
-var e=`/assets/OWC%20Stable-D3fncSQW.png`;export{e as default};

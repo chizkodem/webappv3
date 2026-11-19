@@ -1,1 +1,0 @@
-var e=`/assets/MIP%20Custom%20Long-Dbomg0Ag.png`;export{e as default};

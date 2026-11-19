@@ -1,1 +1,0 @@
-var e=`/assets/Bandit%20Stock-VzK-NqIV.png`;export{e as default};

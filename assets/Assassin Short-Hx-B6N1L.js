@@ -1,1 +1,0 @@
-var e=`/assets/Assassin%20Short-CXdrniZT.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/assets/Hockenson%20348MM%20B13S-Dnw6DwYm.png`;export{e as default};

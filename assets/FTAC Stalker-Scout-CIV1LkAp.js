@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/FTAC%20Stalker-Scout-Da-QtQNS.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/FSS%20Nightshade-CY7Lg_3-.png`;export{e as default};

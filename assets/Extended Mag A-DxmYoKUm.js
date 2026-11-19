@@ -1,1 +1,0 @@
-var e=`/assets/Extended%20Mag%20A-D__3-ZtH.png`;export{e as default};

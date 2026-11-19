@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Light%20Barrel%20Short-ChhikYWE.png`;export{e as default};

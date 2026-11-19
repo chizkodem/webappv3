@@ -1,1 +1,0 @@
-var e=`/assets/J358%20Short-BslpoVd_.png`;export{e as default};

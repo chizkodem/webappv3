@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/Noctkill%20Long%20Barrel-CcAUmvOe.png`;export{e as default};

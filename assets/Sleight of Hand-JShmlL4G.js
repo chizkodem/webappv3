@@ -1,1 +1,0 @@
-var e=`/assets/Sleight%20of%20Hand-CBY5iZ0F.png`;export{e as default};

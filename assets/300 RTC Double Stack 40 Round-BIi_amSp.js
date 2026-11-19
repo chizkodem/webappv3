@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/300%20RTC%20Double%20Stack%2040%20Round-EEusXU9V.png`;export{e as default};

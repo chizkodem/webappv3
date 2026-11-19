@@ -1,1 +1,0 @@
-var e=`/assets/26.5%20Hammer%20Forged-ClVn-u6X.png`;export{e as default};

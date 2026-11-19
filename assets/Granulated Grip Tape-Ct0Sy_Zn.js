@@ -1,1 +1,0 @@
-var e=`/assets/Granulated%20Grip%20Tape-zBhOGkz-.png`;export{e as default};

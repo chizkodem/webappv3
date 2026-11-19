@@ -1,1 +1,0 @@
-var e=`/assets/20%20Round%20Mags-B16Ir1VU.png`;export{e as default};

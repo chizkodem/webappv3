@@ -1,1 +1,0 @@
-var e=`/assets/Noctkill%20Long%20Barrel-CcAUmvOe.png`;export{e as default};

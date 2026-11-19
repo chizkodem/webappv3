@@ -1,1 +1,0 @@
-var e=`/assets/50%20Round%20Extended%20Mag-D6-vqb6f.png`;export{e as default};

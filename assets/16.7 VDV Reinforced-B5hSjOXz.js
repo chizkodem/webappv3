@@ -1,0 +1,1 @@
+var e=`/webappv3/assets/16.7%20VDV%20Reinforced-BGIvcxct.png`;export{e as default};

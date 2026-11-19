@@ -1,1 +1,0 @@
-var e=`/assets/VLK%20Czar-WMAcPAX8.png`;export{e as default};

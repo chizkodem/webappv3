@@ -1,1 +1,0 @@
-var e=`/assets/FSS-X7%20Barrel-D9PqH0uX.png`;export{e as default};

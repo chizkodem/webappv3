@@ -1,1 +1,0 @@
-var e=`/assets/7.62%20GORENKO%2040%20Round%20Mags-B39g1sCx.png`;export{e as default};
