@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Rubber%20Plate-DncyvZnf.png`;export{e as default};

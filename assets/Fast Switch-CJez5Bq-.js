@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Fast%20Switch-BFyiejwB.png`;export{e as default};

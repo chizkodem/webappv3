@@ -1,0 +1,1 @@
+var e=`/assets/Cooling%20Compressor%20Barrel-BVPU3sho.png`;export{e as default};

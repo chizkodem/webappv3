@@ -1,0 +1,1 @@
+var e=`/assets/MIP%20Laser%205mw-6DbN-yQl.png`;export{e as default};

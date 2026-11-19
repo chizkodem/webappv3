@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Cooling%20Compressor%20Barrel-BVPU3sho.png`;export{e as default};

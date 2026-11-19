@@ -1,0 +1,1 @@
+var e=`/assets/Crossbar-Cfb8nYCg.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/3x%20Tactical%20Scope%20B-hdBiLngF.png`;export{e as default};

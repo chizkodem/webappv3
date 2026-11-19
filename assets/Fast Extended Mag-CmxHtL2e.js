@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Fast%20Extended%20Mag-CKXaAx1x.png`;export{e as default};

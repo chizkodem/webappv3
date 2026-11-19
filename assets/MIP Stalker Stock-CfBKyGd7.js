@@ -1,0 +1,1 @@
+var e=`/assets/MIP%20Stalker%20Stock-C4TjQnDV.png`;export{e as default};

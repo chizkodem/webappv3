@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Maxim%20Silencer-sxE46-yE.png`;export{e as default};

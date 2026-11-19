@@ -1,0 +1,1 @@
+var e=`/assets/Klauser%20S2-Bn3aMD8d.png`;export{e as default};

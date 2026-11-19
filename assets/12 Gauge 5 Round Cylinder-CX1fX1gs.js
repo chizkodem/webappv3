@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/12%20Gauge%205%20Round%20Cylinder-DmyJ_4iR.png`;export{e as default};

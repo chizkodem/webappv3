@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/25.8%20Task%20Force-DRy3ryys.png`;export{e as default};

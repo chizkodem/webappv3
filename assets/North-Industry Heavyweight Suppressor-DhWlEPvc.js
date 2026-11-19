@@ -1,0 +1,1 @@
+var e=`/assets/North-Industry%20Heavyweight%20Suppressor-B9Uj51yX.png`;export{e as default};

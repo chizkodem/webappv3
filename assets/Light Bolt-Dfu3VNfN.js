@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Light%20Bolt-h7D_hwVt.png`;export{e as default};

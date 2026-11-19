@@ -1,0 +1,1 @@
+var e=`/assets/MIP%20Precise-DzuNZBVS.png`;export{e as default};

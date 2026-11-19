@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Semi-Automatic%20Fire-B92JLAai.png`;export{e as default};

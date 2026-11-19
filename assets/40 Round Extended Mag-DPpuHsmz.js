@@ -1,0 +1,1 @@
+var e=`/assets/40%20Round%20Extended%20Mag-Cdv_z77J.png`;export{e as default};

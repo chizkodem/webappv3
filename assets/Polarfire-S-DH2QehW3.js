@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Polarfire-S-DzfgW8T9.png`;export{e as default};

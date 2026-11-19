@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/7.9%20BR%20Compact-CRjFzJRT.png`;export{e as default};

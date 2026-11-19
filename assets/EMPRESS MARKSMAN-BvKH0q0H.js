@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/EMPRESS%20MARKSMAN-C3OdqZos.png`;export{e as default};

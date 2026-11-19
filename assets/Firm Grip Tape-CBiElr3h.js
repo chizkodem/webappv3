@@ -1,0 +1,1 @@
+var e=`/assets/Firm%20Grip%20Tape-BYckUZfz.png`;export{e as default};

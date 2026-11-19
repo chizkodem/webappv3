@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Wild%20Fire-DILzpXsC.png`;export{e as default};

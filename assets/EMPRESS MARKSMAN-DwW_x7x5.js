@@ -1,0 +1,1 @@
+var e=`/assets/EMPRESS%20MARKSMAN-C3OdqZos.png`;export{e as default};

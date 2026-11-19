@@ -1,0 +1,1 @@
+var e=`/assets/Light%20Bolt-h7D_hwVt.png`;export{e as default};

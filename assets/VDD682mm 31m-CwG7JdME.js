@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/VDD682mm%2031m-D8wnCAN2.png`;export{e as default};

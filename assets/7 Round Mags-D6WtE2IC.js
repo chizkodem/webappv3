@@ -1,0 +1,1 @@
+var e=`/assets/7%20Round%20Mags-BZp70PMd.png`;export{e as default};

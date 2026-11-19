@@ -1,0 +1,1 @@
+var e=`/assets/Banner%20Heavy-0yOliPau.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/MIP%20Quick%20Response%20Barrel-DrY8Hpqo.png`;export{e as default};

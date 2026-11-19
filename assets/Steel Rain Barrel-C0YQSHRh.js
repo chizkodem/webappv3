@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Steel%20Rain%20Barrel-Gpj2V7nZ.png`;export{e as default};

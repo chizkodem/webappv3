@@ -1,0 +1,1 @@
+var e=`/assets/Clarent%20Light%20Stock-NE4DnuL8.png`;export{e as default};

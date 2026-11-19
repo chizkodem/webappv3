@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Outlaw%20Barrel-DWZwHRcb.png`;export{e as default};

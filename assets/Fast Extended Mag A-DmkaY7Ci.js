@@ -1,0 +1,1 @@
+var e=`/assets/Fast%20Extended%20Mag%20A-c2rPQABy.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Classic%20Red%20Dot%20Sight-CoEjtb7P.png`;export{e as default};

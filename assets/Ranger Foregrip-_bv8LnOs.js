@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Ranger%20Foregrip-hqHSW6n9.png`;export{e as default};

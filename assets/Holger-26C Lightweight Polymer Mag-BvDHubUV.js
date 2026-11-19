@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Holger-26C%20Lightweight%20Polymer%20Mag-CJAc8rEP.png`;export{e as default};

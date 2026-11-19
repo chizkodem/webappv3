@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/18.0%20Sport%20Barrel-Dho4ht9W.png`;export{e as default};

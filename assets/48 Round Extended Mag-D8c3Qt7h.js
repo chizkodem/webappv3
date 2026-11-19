@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/48%20Round%20Extended%20Mag-D9A2yVBy.png`;export{e as default};

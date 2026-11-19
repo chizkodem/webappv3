@@ -1,0 +1,1 @@
+var e=`/assets/High%20Explosive%20Ammo-D0Mo2QMA.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Stopping%20Power%20Reload-DFZCOiG_.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Serpent%20Wrap-B0DCRfgJ.png`;export{e as default};

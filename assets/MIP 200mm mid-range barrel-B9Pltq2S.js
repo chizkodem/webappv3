@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/MIP%20200mm%20mid-range%20barrel-Dn5p3eED.png`;export{e as default};

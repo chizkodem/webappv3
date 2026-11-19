@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/RTC%20Extended%20Light%20Barrel-CTyPWoLp.png`;export{e as default};

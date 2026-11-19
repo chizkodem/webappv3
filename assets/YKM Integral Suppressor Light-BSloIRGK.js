@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/YKM%20Integral%20Suppressor%20Light-Dm62DkYK.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/MIP%20Light-CSTx_nyk.png`;export{e as default};

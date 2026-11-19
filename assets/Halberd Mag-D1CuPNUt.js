@@ -1,0 +1,1 @@
+var e=`/assets/Halberd%20Mag-ClAM4GEp.png`;export{e as default};

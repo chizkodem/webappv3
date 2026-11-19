@@ -1,0 +1,1 @@
+var e=`/assets/Armor%20Piercer%20Mag-CzrPcamf.png`;export{e as default};

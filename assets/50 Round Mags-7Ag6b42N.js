@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/50%20Round%20Mags-CWBFlHeB.png`;export{e as default};

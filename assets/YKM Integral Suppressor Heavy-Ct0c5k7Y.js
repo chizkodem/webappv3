@@ -1,0 +1,1 @@
+var e=`/assets/YKM%20Integral%20Suppressor%20Heavy-ivOHaoJK.png`;export{e as default};

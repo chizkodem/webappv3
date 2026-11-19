@@ -1,0 +1,1 @@
+var e=`/assets/16%20Chrome%20Lined%20RFX40%20Barrel-Byeqb3oF.png`;export{e as default};

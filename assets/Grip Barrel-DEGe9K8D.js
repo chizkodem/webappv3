@@ -1,0 +1,1 @@
+var e=`/assets/Grip%20Barrel-B3Y4OBjg.png`;export{e as default};

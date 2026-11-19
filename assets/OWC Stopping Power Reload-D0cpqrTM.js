@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/OWC%20Stopping%20Power%20Reload-DzTB_ljE.png`;export{e as default};

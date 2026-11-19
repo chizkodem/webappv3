@@ -1,0 +1,1 @@
+var e=`/assets/Red%20Dot%20Sight%201-DKrxCjyy.png`;export{e as default};

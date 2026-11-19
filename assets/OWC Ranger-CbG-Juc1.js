@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/OWC%20Ranger-DmJCSfOs.png`;export{e as default};

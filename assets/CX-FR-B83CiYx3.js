@@ -1,0 +1,1 @@
+var e=`/assets/CX-FR-DvuFLl2u.png`;export{e as default};

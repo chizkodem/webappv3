@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Tactical%20Suppressor-9mno9rao.png`;export{e as default};

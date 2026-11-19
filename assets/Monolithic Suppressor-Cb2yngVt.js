@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Monolithic%20Suppressor-BaqxEQ03.png`;export{e as default};

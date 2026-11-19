@@ -1,0 +1,1 @@
+var e=`/assets/Salvo%2044%20Rnd%20Fast%20Mag-DBqNYKdN.png`;export{e as default};

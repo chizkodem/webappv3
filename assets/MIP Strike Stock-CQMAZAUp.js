@@ -1,0 +1,1 @@
+var e=`/assets/MIP%20Strike%20Stock-DyxNX4Fg.png`;export{e as default};

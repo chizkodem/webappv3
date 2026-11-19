@@ -1,0 +1,1 @@
+var e=`/assets/Corio%20LAZ-44%20V3-B4DfRZg6.png`;export{e as default};

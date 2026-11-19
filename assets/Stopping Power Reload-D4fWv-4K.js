@@ -1,0 +1,1 @@
+var e=`/assets/Stopping%20Power%20Reload-DFZCOiG_.png`;export{e as default};

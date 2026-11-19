@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/10.5%20Taskforce%20Barrel-Cf45hKoE.png`;export{e as default};
