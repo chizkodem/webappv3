@@ -1,0 +1,1 @@
+var e=`/assets/Built-in%20Silence%20Barrel-C0ND504E.png`;export{e as default};

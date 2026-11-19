@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/RAAL%20Monocore-CR3NgQ90.png`;export{e as default};

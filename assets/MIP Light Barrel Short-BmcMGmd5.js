@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/MIP%20Light%20Barrel%20Short-CuS7fXBq.png`;export{e as default};

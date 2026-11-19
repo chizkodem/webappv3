@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Mobility%20Stock-C2V_1WoE.png`;export{e as default};

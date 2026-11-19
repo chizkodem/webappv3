@@ -1,0 +1,1 @@
+var e=`/assets/No%20Stock-Bmvexqym.png`;export{e as default};

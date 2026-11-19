@@ -1,0 +1,1 @@
+var e=`/assets/Forge%20Tac%20Eclipse-BYTC-AIC.png`;export{e as default};

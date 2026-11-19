@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/VLK%20Spetznaz-CYOqhwx9.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Rubberized%20Grip%20Tape-BsWHdY7w.png`;export{e as default};

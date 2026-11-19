@@ -1,0 +1,1 @@
+var e=`/assets/R%20Coms4-vBKVKOYe.png`;export{e as default};

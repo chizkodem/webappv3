@@ -1,0 +1,1 @@
+var e=`/assets/UnderBarrel%20Stun%20Gun-CN8cq2WI.png`;export{e as default};

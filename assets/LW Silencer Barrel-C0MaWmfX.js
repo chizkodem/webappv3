@@ -1,0 +1,1 @@
+var e=`/assets/LW%20Silencer%20Barrel-M52Retoc.png`;export{e as default};

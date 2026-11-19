@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Heavy%20Duty%20Trigger-BywPakiV.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/Heavy%20Duty%20Trigger-BywPakiV.png`;export{e as default};

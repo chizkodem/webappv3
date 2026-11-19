@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/CX-38s-mS0Gkrq6.png`;export{e as default};

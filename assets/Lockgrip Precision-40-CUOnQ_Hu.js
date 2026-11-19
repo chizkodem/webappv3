@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Lockgrip%20Precision-40-B_DsdBB9.png`;export{e as default};

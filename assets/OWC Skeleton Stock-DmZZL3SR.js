@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/OWC%20Skeleton%20Stock-C1gCryy-.png`;export{e as default};

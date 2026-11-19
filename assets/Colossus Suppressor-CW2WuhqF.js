@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Colossus%20Suppressor-D9Uhwryy.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Hammer%20Grip-CsL-bZH_.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/Tactical%20Scope-Dn22Ey4-.png`;export{e as default};

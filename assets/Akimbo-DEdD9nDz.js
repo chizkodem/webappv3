@@ -1,0 +1,1 @@
+var e=`/assets/Akimbo-B3ul6A9p.png`;export{e as default};

@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/YKM%20Combat%20Stock-DATQbTBU.png`;export{e as default};

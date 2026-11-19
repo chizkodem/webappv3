@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/RTC%20steady%20stock-8dAZoPWq.png`;export{e as default};

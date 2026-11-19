@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Heavy%20Limb-CAb4MP8l.png`;export{e as default};

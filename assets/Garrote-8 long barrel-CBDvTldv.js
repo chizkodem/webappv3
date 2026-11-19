@@ -1,0 +1,1 @@
+var e=`/assets/Garrote-8%20long%20barrel-BzxQdUOT.png`;export{e as default};

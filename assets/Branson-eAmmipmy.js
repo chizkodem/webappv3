@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Branson-D34QLd9R.png`;export{e as default};

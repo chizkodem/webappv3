@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Folding%20Stock-DstZMlh0.png`;export{e as default};

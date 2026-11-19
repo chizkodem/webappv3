@@ -1,0 +1,1 @@
+var e=`/assets/Operator%20Foregrip-D4X7J4NT.png`;export{e as default};

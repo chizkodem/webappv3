@@ -1,0 +1,1 @@
+var e=`/assets/Match%20Grade%20Trigger-CEbrEL5r.png`;export{e as default};

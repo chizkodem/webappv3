@@ -1,0 +1,1 @@
+var e=`/assets/CX-9%20Ace%20Grip-DmD75Psv.png`;export{e as default};

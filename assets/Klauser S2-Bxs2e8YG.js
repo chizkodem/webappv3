@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Klauser%20S2-Bn3aMD8d.png`;export{e as default};

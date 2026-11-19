@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/M1941%20Handstop%20Foregrip-6xDGuyL8.png`;export{e as default};

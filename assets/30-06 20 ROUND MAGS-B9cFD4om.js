@@ -1,0 +1,1 @@
+var e=`/assets/30-06%2020%20ROUND%20MAGS-Cb3mNjGS.png`;export{e as default};

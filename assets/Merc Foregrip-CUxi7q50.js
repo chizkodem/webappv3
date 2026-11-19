@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Merc%20Foregrip-B3qjou6b.png`;export{e as default};

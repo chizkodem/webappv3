@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Archer%20Stock-DSzM4fUq.png`;export{e as default};

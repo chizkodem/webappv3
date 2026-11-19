@@ -1,0 +1,1 @@
+var e=`/assets/ZAC%20S3%20TAK-BoF-Ka1x.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/Steel%20Rain%20Stock-awNkGE7I.png`;export{e as default};

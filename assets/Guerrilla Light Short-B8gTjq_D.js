@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Guerrilla%20Light%20Short-OZbXoEZj.png`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/assets/Stippled%20Grip%20Tape-CfjY4xn8.png`;export{e as default};

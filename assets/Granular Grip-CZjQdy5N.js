@@ -1,0 +1,1 @@
+var e=`/assets/Granular%20Grip-CvPgxL9G.png`;export{e as default};

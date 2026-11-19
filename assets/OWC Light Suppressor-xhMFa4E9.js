@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/OWC%20Light%20Suppressor-DNf9mRG6.png`;export{e as default};

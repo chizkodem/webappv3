@@ -1,0 +1,1 @@
+var e=`/assets/YKM%20Light%20Stock-v0joipVK.png`;export{e as default};

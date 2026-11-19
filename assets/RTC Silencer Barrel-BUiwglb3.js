@@ -1,0 +1,1 @@
+var e=`/assets/RTC%20Silencer%20Barrel-w5FDae0J.png`;export{e as default};

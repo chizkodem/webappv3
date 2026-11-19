@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Double%20Stack%20Mag-ClB9ja6d.png`;export{e as default};

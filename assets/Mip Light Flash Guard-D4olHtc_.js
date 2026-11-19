@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Mip%20Light%20Flash%20Guard-D6lMpk52.png`;export{e as default};

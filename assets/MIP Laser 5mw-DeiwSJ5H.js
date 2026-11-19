@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/MIP%20Laser%205mw-6DbN-yQl.png`;export{e as default};

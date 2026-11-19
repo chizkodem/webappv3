@@ -1,0 +1,1 @@
+var e=`/assets/16.4%20Titanium-Swt5H1D0.png`;export{e as default};

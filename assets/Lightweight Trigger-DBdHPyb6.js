@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Lightweight%20Trigger-xrOLFcZK.png`;export{e as default};

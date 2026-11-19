@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/RTC%20510mm%20Light-8Xq-xY20.png`;export{e as default};

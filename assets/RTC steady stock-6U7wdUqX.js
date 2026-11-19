@@ -1,0 +1,1 @@
+var e=`/assets/RTC%20steady%20stock-8dAZoPWq.png`;export{e as default};

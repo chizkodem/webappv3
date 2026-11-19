@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/MIP%20Precise-DzuNZBVS.png`;export{e as default};

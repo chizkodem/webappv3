@@ -1,0 +1,1 @@
+var e=`/assets/Large%20Extended%20Mag%20B-CCwcy34Q.png`;export{e as default};

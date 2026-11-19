@@ -1,0 +1,1 @@
+var e=`/assets/RTC%20Light%20Muzzle%20Brake-BmHL8fUk.png`;export{e as default};

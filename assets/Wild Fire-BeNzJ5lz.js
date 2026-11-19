@@ -1,0 +1,1 @@
+var e=`/assets/Wild%20Fire-DILzpXsC.png`;export{e as default};

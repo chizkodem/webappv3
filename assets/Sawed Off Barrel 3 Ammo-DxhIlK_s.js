@@ -1,0 +1,1 @@
+var e=`/assets/Sawed%20Off%20Barrel%203%20Ammo-BDrfgAGQ.png`;export{e as default};

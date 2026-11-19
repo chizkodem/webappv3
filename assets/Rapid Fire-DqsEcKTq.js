@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Rapid%20Fire-BnU54fdS.png`;export{e as default};

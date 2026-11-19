@@ -1,1 +1,0 @@
-var e=`/webappv3/assets/Tactical%20Scope-Dn22Ey4-.png`;export{e as default};
