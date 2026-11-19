@@ -156,7 +156,7 @@ const MetaPage = ({
               .map((category) => (
                 <div
                   key={category}
-                  className="w-full"
+                  className="w-full pt-22 -mt-18"
                   ref={(element) => {
                     categoryRefs.current[category] = element;
                   }}

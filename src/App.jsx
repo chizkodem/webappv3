@@ -305,7 +305,7 @@ function App() {
                 path="/attachments/:gunName"
                 element={
                   <div
-                    className={`all-page-container flex w-full p-5 max-[600px]:p-0 max-[600px]:pt-5 pb-0 max-h-[calc(100vh-88px)] overflow-auto`}
+                    className={`gunsmith-containers flex w-full p-5 max-[600px]:p-0 max-[600px]:pt-5 h-fit`}
                   >
                     <GunsmithPage
                       gunData={gunData}

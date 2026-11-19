@@ -434,7 +434,7 @@ const GunsmithPage = ({ gunData, setShowGunsmith }) => {
             </div>
           </div>
 
-          <div className="tips-container w-full border border-[#fab02d] p-2 px-5 rounded-2xl flex flex-col gap-2 bg-linear-to-tl from-[#fab02d]/20 to-transparent">
+          <div className="tips-container w-full border border-[#fab02d] p-2 px-5 rounded-2xl flex flex-col gap-2 bg-linear-to-tl from-[#fab02d]/20 to-transparent mb-26">
             <div className="flex gap-2">
               <HugeiconsIcon icon={IdeaIcon} className="text-[#fab02d]" />
               <h2 className="font-bold text-xl">Pro Tips</h2>

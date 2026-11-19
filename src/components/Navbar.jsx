@@ -318,7 +318,7 @@ const Navbar = ({
           {/* search bar for small devices */}
           <div
             ref={searchRef}
-            className="relative mr-6  max-[490px]:mr-4 xl:hidden"
+            className="relative mr-6  max-[490px]:mr-4 xl:hidden z-10"
           >
             <div
               className={`absolute left-1/2 -translate-1/2 h-10 w-10 max-[490px]:h-8 max-[490px]:w-8 pl-4 transition-all duration-300 ${
