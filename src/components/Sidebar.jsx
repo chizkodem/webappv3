@@ -261,25 +261,27 @@ const Sidebar = ({
         </div>
       </div>
 
-      <div className=" flex-1 flex justify-center items-center">
+      <div className=" flex-1 flex justify-center items-center max-[926px]:hidden">
         <div className="text-center border p-2 rounded-2xl border-[#fcb02d] bg-[#101010d7]">
           <img
-            src="https://ik.imagekit.io/chizwebappv3/chizkodemlogo.png?updatedAt=1794040487219"
+            src={`${minimized ? "https://ik.imagekit.io/chizwebappv3/gcash-seeklogo%20yello.png" : "https://ik.imagekit.io/chizwebappv3/chizkodemlogo.png?updatedAt=1794040487219"}`}
             alt=""
-            className="w-13 mx-auto"
+            className={` mx-auto ${minimized ? "w-13 p-1" : "w-13"}`}
           />
-          <h1 className="text-2xl font-bold text-[#fcb02d]">
-            Support the Project
-          </h1>
-          <div className="rounded-2xl p-1.5 bg-[#302f2f86]">
-            <p>Every bit of support is appreciated!</p>
-            <div className="flex items-center justify-evenly bg-[#644001] py-2 rounded-2xl">
-              <img
-                src="https://ik.imagekit.io/chizwebappv3/gcash-seeklogo%20yello.png"
-                alt=""
-                className="w-10"
-              />
-              <p className="text-xl font-semibold">0920-635-0110</p>
+          <div className={` ${minimized ? "hidden" : ""}`}>
+            <h1 className="text-2xl font-bold text-[#fcb02d]">
+              Support the Project
+            </h1>
+            <div className="rounded-2xl p-1.5 bg-[#302f2f86]">
+              <p>Every bit of support is appreciated!</p>
+              <div className="flex items-center justify-evenly bg-[#644001] py-2 rounded-2xl">
+                <img
+                  src="https://ik.imagekit.io/chizwebappv3/gcash-seeklogo%20yello.png"
+                  alt=""
+                  className="w-10"
+                />
+                <p className="text-xl font-semibold">0920-635-0110</p>
+              </div>
             </div>
           </div>
         </div>

@@ -81,7 +81,7 @@ const GunCard = ({
       }
     >
       <div
-        className={`-z-1 absolute top-1/2 left-1/2 -translate-1/2 w-full h-full ${
+        className={`z-1 absolute top-1/2 left-1/2 -translate-1/2 w-full h-full ${
           showGuns === "meta" || showGuns === "chizPage"
             ? "max-[600px]:top-9/20 max-[500px]:top-8/20 max-[374px]:top-8/20 max-[540px]:scale-130"
             : ""
@@ -92,7 +92,7 @@ const GunCard = ({
           alt=""
           className={`absolute top-[55%] left-[47%] ${showGuns === "metaPage" ? "h-[130%]" : showGuns === "gunsPage" ? "w-full" : "w-[140%]"} max-w-none translate-y-[-53%] translate-x-[-50%] aspect-video object-cover gun-part-shadow ${
             showGuns === "meta" || showGuns === "chizPage"
-              ? ""
+              ? "w-[110%]!"
               : showGuns === "gunsPage"
                 ? "max-[500px]:top-8/20"
                 : ""
@@ -140,7 +140,7 @@ const GunCard = ({
 
         <div className="">
           <h2
-            className={`shrink-0 text-xl font-bold z-999 ${
+            className={`shrink-0 text-xl font-bold z-999 text-shadow-[2px_2px_5px_rgba(0,0,0,1),2px_2px_5px_rgba(0,0,0,1)] ${
               showGuns === "meta"
                 ? "text-[#d3d3d3] hidden"
                 : showGuns === "gunsPage"
@@ -191,9 +191,9 @@ const GunCard = ({
           }`}
         >
           <h2
-            className={`${handlePlace(place)} ${showGuns === "chizPage" ? handlePlace(chizFavePlace) : ""} text-xl font-bold z-999 text-shadow-[2px_2px_5px_rgba(0,0,0,1),2px_2px_5px_rgba(0,0,0,1) ${
+            className={`${handlePlace(place)}-title ${showGuns === "chizPage" ? handlePlace(chizFavePlace) : ""} text-shadow-[2px_2px_5px_rgba(0,0,0,1),2px_2px_5px_rgba(0,0,0,1)] text-xl font-bold z-999 ${
               showGuns === "metaPage"
-                ? "text-[#d3d3d3]"
+                ? "text-[#000000]"
                 : showGuns === "gunsPage"
                   ? "hidden"
                   : ""

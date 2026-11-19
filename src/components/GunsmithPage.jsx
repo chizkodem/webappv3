@@ -33,6 +33,22 @@ const GunsmithPage = ({ gunData, setShowGunsmith }) => {
   const [selectedBuild, setSelectedBuild] = useState(priorityBuildName);
   const currentBuild = gun.builds?.[selectedBuild];
 
+  const [copied, setCopied] = useState({});
+  const handleCopy = async (loadoutCode) => {
+    if (!loadoutCode) return;
+
+    try {
+      await navigator.clipboard.writeText(loadoutCode);
+      setCopied((prev) => ({ ...prev, [loadoutCode]: true }));
+      setTimeout(() => {
+        setCopied({});
+      }, 3000);
+      console.log("Copied " + loadoutCode + " to clipboard!");
+    } catch (error) {
+      console.error("Failed to copy:", error);
+    }
+  };
+
   useEffect(() => {
     setSelectedBuild(priorityBuildName);
   }, [priorityBuildName]);
@@ -250,7 +266,7 @@ const GunsmithPage = ({ gunData, setShowGunsmith }) => {
           <LazyImage
             src={gun.iconURL}
             alt=""
-            className="object-contain max-w-350 absolute right-[calc(-150px+50vw)] max-[1425px]:w-300 max-[1240px]:w-250 max-[1070px]:w-200 max-[1425px]:right-[calc(-200px+50vw)] top-1/2 translate-x-[57%] max-[815px]:top-4/10 translate-y-[-49%] gun-hero-shadow"
+            className="object-contain max-w-350 absolute right-[calc(-150px+50vw)] max-[1425px]:w-300 max-[1240px]:w-250 max-[1070px]:w-200 max-[1425px]:right-[calc(-200px+50vw)] top-1/2 translate-x-[57%] max-[815px]:top-4/10 translate-y-[-49%] max-[927px]:right-[55%] max-[927px]:w-[120vw] max-[815px]:top-9/20 max-[600px]:w-[130vw] max-[600px]:right-[53%] max-[600px]:top-1/2 max-[500px]:top-9/20 top-1/2 gun-hero-shadow"
           />
 
           {/* Actual gun */}
@@ -369,8 +385,24 @@ const GunsmithPage = ({ gunData, setShowGunsmith }) => {
                   Loadout Code
                 </h2>
               </div>
-              <div className="flex gap-2 border-[#fab02d] border p-1 px-3 rounded-4xl text-[#fab02d]">
-                <HugeiconsIcon icon={CopyIcon} />
+              <div
+                className={`flex gap-2 duration-500 border p-1 px-3 rounded-4xl cursor-pointer ${
+                  copied[currentBuild?.loadoutCode]
+                    ? "border-[#09b612] text-[#09b612]"
+                    : "border-[#fab02d] text-[#fab02d]"
+                }`}
+                onClick={() => handleCopy(currentBuild?.loadoutCode)}
+              >
+                <HugeiconsIcon
+                  icon={CopyIcon}
+                  className={`${
+                    copied[
+                      currentBuild?.loadoutCode
+                        ? "text-[#09b612]"
+                        : "text-[#fab02d]"
+                    ]
+                  }`}
+                />
                 <p className="font-semibold">Copy</p>
               </div>
             </div>

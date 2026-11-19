@@ -379,10 +379,13 @@ const Navbar = ({
             </label>
 
             <div>
-              <button className="flex bg-[#fab02d] text-black font-bold px-3 p-3 max-2xl:p-3 max-2xl:px-2 max-xl:px-3 rounded-2xl max-[490px]:px-1! max-[490px]:p-1!  max-[490px]:rounded-md">
+              <a
+                href="http://www.tiktok.com/@chizkodem"
+                className="flex bg-[#fab02d] text-black font-bold px-3 p-3 max-2xl:p-3 max-2xl:px-2 max-xl:px-3 rounded-2xl max-[490px]:px-1! max-[490px]:p-1!  max-[490px]:rounded-md"
+              >
                 <HugeiconsIcon icon={TiktokIcon} className="fill-black" />
                 <p className=" max-xl:hidden">Follow on TikTok</p>
-              </button>
+              </a>
             </div>
           </div>
         </div>

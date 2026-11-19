@@ -232,7 +232,7 @@ function App() {
               <Route
                 path="/"
                 element={
-                  <div className={`w-full h-full max-[926px]:mb-26`}>
+                  <div className={`w-full h-fit max-[926px]:mb-26!`}>
                     <MainPage
                       setShowGunsmith={setShowGunsmith}
                       setGunData={setGunData}

@@ -48,7 +48,7 @@ const Chiz = ({
                 className="font-semibold text-2xl text-shadow-[2px_2px_5px_rgba(0,0,0,1),2px_2px_5px_rgba(0,0,0,1)]
                                max-2xl:text-xl max-sm:text-lg"
               >
-                Discover the top performing weapons in CODM right now!
+                This is some of my Favorite Guns. Feel free to use them!
               </h2>
             </div>
 

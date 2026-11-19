@@ -90,7 +90,7 @@ const GunsPage = ({
               </div>
               <div className="flex gap-4 max-[375px]:text-sm max-[375px]:gap-2">
                 <div
-                  className="flex p-2 px-4 rounded-4xl bg-[#fab02d] w-fit items-center gap-2 max-[375px]:px-2"
+                  className="flex p-2 px-4 rounded-4xl bg-[#fab02d] w-fit items-center gap-2 max-[375px]:px-2 cursor-pointer"
                   onClick={() => navigate("/Metas")}
                 >
                   <HugeiconsIcon
