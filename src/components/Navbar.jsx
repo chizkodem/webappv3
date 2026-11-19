@@ -94,7 +94,9 @@ const Navbar = ({
   };
 
   return (
-    <div className="navbar fixed flex w-full h-22 px-10 max-lg:px-5 shadow-[1px_1px_5px_#fab02d] z-60 bg-[#000000]">
+    <div
+      className={`navbar fixed flex w-full h-22 px-10 max-lg:px-5 shadow-[1px_1px_5px_#fab02d] z-60 bg-[#000000] transition-transform duration-300 ease-in-out `}
+    >
       <div className="navbar-content flex items-center justify-between w-full">
         <div className="flex items-center">
           {/* chizpage logo */}

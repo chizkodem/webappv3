@@ -62,7 +62,7 @@ const GunsPage = ({
       <div
         ref={gunsPageContainerRef}
         onScroll={handleScroll}
-        className="gunspage-container w-full overflow-y-scroll max-h-[calc(100vh-108px)] max-[926px]:pb-20"
+        className="gunspage-container w-full overflow-y-scroll max-h-[calc(100vh-108px)] max-[926px]:pb-26!"
       >
         <div
           className={`transition-all duration-500 w-full mx-auto relative border max-sm:mt-3 border-[#fcb02d] rounded-4xl`}
@@ -122,7 +122,7 @@ const GunsPage = ({
               .map((category) => (
                 <div
                   key={category}
-                  className="full mb-5"
+                  className="full mb-5 max-[926px]:pt-22 max-[926px]:-mt-18"
                   ref={(element) => {
                     categoryRefs.current[category] = element;
                   }}

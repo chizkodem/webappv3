@@ -35,8 +35,6 @@ const GunList = ({
   const INITIAL_GUNS = 5;
   const GUNS_PER_LOAD = 5;
 
-  console.log(width);
-
   const handlePlace = (value) => {
     const place =
       typeof value === "object"

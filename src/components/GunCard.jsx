@@ -191,13 +191,13 @@ const GunCard = ({
           }`}
         >
           <h2
-            className={`${handlePlace(place)}-title ${showGuns === "chizPage" ? handlePlace(chizFavePlace) : ""} text-shadow-[2px_2px_5px_rgba(0,0,0,1),2px_2px_5px_rgba(0,0,0,1)] text-xl font-bold z-999 ${
+            className={`${handlePlace(place)}-title ${showGuns === "chizPage" ? `${handlePlace(chizFavePlace)}-title` : ""} text-shadow-[2px_2px_5px_rgba(0,0,0,1),2px_2px_5px_rgba(0,0,0,1)] text-xl font-bold z-999 ${
               showGuns === "metaPage"
                 ? "text-[#000000]"
                 : showGuns === "gunsPage"
                   ? "hidden"
                   : ""
-            } ${place >= 4 ? "text-[#919191]" : ""}`}
+            } ${place >= 4 ? "text-[#919191]" : ""} ${chizFavePlace >= 4 ? "text-[#919191]" : ""}`}
           >
             {gun.gunName}
           </h2>

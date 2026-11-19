@@ -40,8 +40,6 @@ function App() {
   const [searchQueries, setSearchQueries] = useState("");
   const [user, setUser] = useState(null);
 
-  // console.log(selectedSideBar);
-
   const [authLoading, setAuthLoading] = useState(true);
 
   useEffect(() => {
@@ -52,8 +50,6 @@ function App() {
 
     return () => unsubscribe();
   }, []);
-
-  console.log(user);
 
   const scrollToCategory = (category) => {
     categoryRefs.current[category]?.scrollIntoView({

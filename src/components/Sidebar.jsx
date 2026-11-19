@@ -97,7 +97,6 @@ const Sidebar = ({
       setShowSideBar(false);
       setMinimized(true);
       setHover(false);
-      console.log(hoverSideBar);
     }
   }, [hoverSideBar, selectedTab]);
 
